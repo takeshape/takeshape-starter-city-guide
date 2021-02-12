@@ -1,0 +1,6 @@
+name: City Guide
+description: "An IP-based city guide."
+color: "#95bf46"
+icon: "home"
+categories:
+  - guides
